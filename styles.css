@@ -1,4 +1,5 @@
 main {
+  margin: -10px;
   background-color: rgb(216, 191, 216);
 }
 div {
@@ -36,31 +37,20 @@ figure {
   margin-right: auto;
   max-width: 100%;
     }
-  #image-div {
+#image-div {
     margin-left: auto;
     margin-right: auto;
   }
-  .tribute-recipient {
+.tribute-recipient {
     text-align: center;
     font-family: Optima, sans serif;
   }
-  figure {
-    float: center;
-    width: 80%;
-    text-align: center;
-    font-style: italic;
-    font-size: smaller;
-    text-indent: 0;
-    border: thin silver solid;
-    margin: 6em;
-    padding: 0.5em;
-  }
-  #image-caption {
+#image-caption {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
-#tribute-info {
+  #tribute-info {
   margin-left: 100px;
   margin-right: 100px;
   font-family: Courier New, monospace;
